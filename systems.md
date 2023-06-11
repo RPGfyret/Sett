@@ -1,3 +1,10 @@
+---
+title: "Systems"
+permalink: "/systems/"
+layout: page
+---
+
+
 I use a variety of systems and resources to play my solo games. Sometimes, I even remember to put them here!
 
 ---
